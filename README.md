@@ -1,13 +1,31 @@
- #### Hey there! Dhinesh here. 👋
+ <br>
  
- 👀 I’m deeply interested to work in Data Science
+ <h1 align ="center"> Hey there! Dhinesh Kumar here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> </h1>
  
- 🌱 I’m currently learning Machine Learning
+ <br>
  
- [![Dhinesh's github stats](https://github-readme-stats.vercel.app/api?username=dhinesh04&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+ 🎓 <b>Education:</b> Pursuing M.Sc. Decision and Computing Sciences (Integrated) - 3rd Year
+ 
+ 🤔 <b>Interests:</b> Machine Learning, Web Development, Natural Language Processing
+ 
+ 🎨 <b>Hobbies:</b> Reading books and Learning new languages
  
  
+ <h1 align = "center"> Connect with me <img src="" width="50px"> 
 
+ <p align="center">
+  <a href="https://www.linkedin.com/in/dhinesh-kumar-04/">
+    <img align="center" alt="Sai Adarsh S's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/imdhinesh_/">
+    <img align="center" alt="Sai Adarsh S's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://medium.com/@dhinesh_kumar">
+    <img align="center" alt="Sai Adarsh S's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  </a>
+</p>
+ 
+</h1>
 
 <!---
 dhinesh04/dhinesh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
