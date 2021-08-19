@@ -11,21 +11,20 @@
  🎨 <b>Hobbies:</b> Reading books and Learning new languages
  
  
- <h1 align = "center"> Connect with me <img src="" width="50px"> 
+ <h1 align = "center"> Connect with me! </h1>
 
  <p align="center">
   <a href="https://www.linkedin.com/in/dhinesh-kumar-04/">
-    <img align="center" alt="Sai Adarsh S's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="center" alt="Dhinesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/imdhinesh_/">
-    <img align="center" alt="Sai Adarsh S's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="center" alt="Dhinesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   <a href="https://medium.com/@dhinesh_kumar">
-    <img align="center" alt="Sai Adarsh S's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+    <img align="center" alt="Dhinesh's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
 </p>
  
-</h1>
 
 <!---
 dhinesh04/dhinesh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
