@@ -6,7 +6,7 @@
  
  🎓 <b>Education:</b> Pursuing M.Sc. Decision and Computing Sciences (Integrated) - 3rd Year
  
- 🤔 <b>Interests:</b> Machine Learning, Web Development, Natural Language Processing
+ 🤔 <b>Interests:</b> Machine Learning, Web Development
  
  🎨 <b>Hobbies:</b> Reading books and Learning new languages
  
