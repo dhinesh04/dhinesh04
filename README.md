@@ -8,7 +8,7 @@
  
  🤔 <b>Interests:</b> Machine Learning, Web Development
  
- 🎨 <b>Hobbies:</b> Reading books and Learning new languages
+ 🎨 <b>Hobbies:</b> Reading books, Learning new languages, Writing blogs and Pencil Sketching
  
  
  <h1 align = "center"> Connect with me! </h1>
