@@ -13,7 +13,7 @@
  📜 <b>Mail me @:</b> dhineshkumar4645@gmail.com
  
  
- <h1 align = "center"> Connect with me! </h1>
+ <h1 align = "center"> Social Media Handles 👇 </h1>
 
  <p align="center">
   <a href="https://www.linkedin.com/in/dhinesh-kumar-04/">
