@@ -10,6 +10,8 @@
  
  🎨 <b>Hobbies:</b> Reading books, Learning new languages, Writing blogs and Pencil Sketching
  
+ 📜 <b>Mail me @:</b> dhineshkumar4645@gmail.com
+ 
  
  <h1 align = "center"> Connect with me! </h1>
 
