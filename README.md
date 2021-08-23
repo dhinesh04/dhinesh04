@@ -8,7 +8,7 @@
  
  🤔 <b>Interests:</b> Machine Learning, Web Development
  
- 📚 <b>Currently Learning</b> Data Structures 
+ 📚 <b>Learning:</b> Data Structures 
  
  🎨 <b>Hobbies:</b> Reading books, Learning new languages, Writing blogs and Pencil Sketching
  
