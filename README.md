@@ -15,7 +15,7 @@
  📜 <b>Mail me @:</b> dhineshkumar4645@gmail.com
  
  
- <h1 align = "center"> Social media handles that you could check me out</h1>
+ <h2 align = "center"> Social media handles that you could check out</h2>
 
  <p align="center">
   <a href="https://www.linkedin.com/in/dhinesh-kumar-04/">
