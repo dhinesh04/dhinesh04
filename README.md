@@ -10,7 +10,7 @@
  
  📚 <b>Learning:</b> DSA, DBMS
  
- 🎨 <b>Hobbies:</b> Reading books, Learning new languages, Writing Blogs and Pencil Sketching
+ 🎨 <b>Hobbies:</b> Reading books, Learning German, Writing Blogs and Pencil Sketching
  
  📜 <b>Mail me @:</b> dhineshkumar4645@gmail.com
  
