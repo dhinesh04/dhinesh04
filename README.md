@@ -6,9 +6,9 @@
  
  🎓 <b>Education:</b> Pursuing M.Sc. Decision and Computing Sciences (Integrated) - 3rd Year
  
- 🤔 <b>Interests:</b> Machine Learning
+ 🤔 <b>Interests:</b> Machine Learning, Full Stack Development, Web Technology
  
- 📚 <b>Learning:</b> Data Structures 
+ 📚 <b>Learning:</b> DSA, DBMS
  
  🎨 <b>Hobbies:</b> Reading books, Learning new languages, Writing Blogs and Pencil Sketching
  
