@@ -4,7 +4,7 @@
  
  <br>
  
- 🎓 <b>Education:</b> Pursuing M.Sc. Decision and Computing Sciences (Integrated) - 3rd Year
+ 🎓 <b>Education:</b> Pursuing M.Sc. Decision and Computing Sciences (Integrated) - 4th Year
  
  🤔 <b>Interests:</b> Machine Learning, Full Stack Development, Web Technology, DBMS
  
