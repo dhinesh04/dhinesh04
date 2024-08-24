@@ -1,6 +1,6 @@
  <br>
  
- <h1 align ="center"> Hey there! Dhinesh Kumar here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> </h1>
+ <h1 align ="center"> Hey there! Dhinesh here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> </h1>
  
  <br>
  
