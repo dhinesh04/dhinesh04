@@ -4,15 +4,15 @@
  
  <br>
  
- 🎓 <b>Education:</b> Pursuing M.Sc. Decision and Computing Sciences (Integrated) - 4th Year
+ 🎓 <b>Education:</b> Pursuing MS Computer Science and Engineering at The Ohio State University (Autumn 2024 intake)
  
- 🤔 <b>Interests:</b> Machine Learning, Full Stack Development, Web Technology, DBMS
+ 🤔 <b>Interests:</b> Machine Learning, Full Stack Development, Docker, Deep Learning, Backend Development
  
- 📚 <b>Learning:</b> DSA
+ 📚 <b>Learning:</b> Go, Kubernetes
  
- 🎨 <b>Hobbies:</b> Reading books, Learning German, Writing Blogs and Pencil Sketching
+ 🎨 <b>Hobbies:</b> Reading books, Writing Blogs and Pencil Sketching
  
- 📜 <b>Mail me @:</b> dhineshkumar4645@gmail.com
+ 📜 <b>Mail me @:</b> dhineshkumar4645@gmail.com, sivakumar.87@osu.edu
  
  
  <h2 align = "center"> Social media handles that you could check out</h2>
