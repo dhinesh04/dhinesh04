@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dhinesh 👋</h1>
 
 <p align="center">
-  <em>MS Computer Science & Engineering @ The Ohio State University &nbsp;·&nbsp; Graduating May 2026</em>
+  <em>MS Computer Science & Engineering @ The Ohio State University &nbsp;·&nbsp; Graduating August 2026</em>
 </p>
 
 <p align="center">
