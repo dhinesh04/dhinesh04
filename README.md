@@ -25,7 +25,7 @@
 
 I'm a CS grad student passionate about building intelligent systems at the intersection of AI and real-world impact. Currently exploring the frontiers of large language models, autonomous agents, and AI applications in healthcare — and always up for a good book or a sketching session in between.
 
-- 🎓 &nbsp; Graduating **May 2026** with an MS in CS from **Ohio State**
+- 🎓 &nbsp; Graduating **August 2026** with an MS in CS from **Ohio State**
 - 🔭 &nbsp; Working on projects involving **LLMs, AI Agents & AI in Healthcare**
 - 📚 &nbsp; Currently learning **Go** and **Kubernetes**
 - ✏️ &nbsp; Hobbies: Reading, Writing Blogs, Pencil Sketching
